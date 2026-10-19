@@ -4,10 +4,10 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://decortools.com'),
+  metadataBase: new URL('http://homespacecalc.com/'),
   title: {
-    default: 'DecorTools | Free Home Decor & Home Improvement Calculators',
-    template: '%s | DecorTools',
+    default: 'HomeSpaceCal | Free Home Decor & Home Improvement Calculators',
+    template: '%s | HomeSpaceCal',
   },
   description:
     'Plan your next home project with 20 free, practical calculators for rug sizing, curtains, paint, flooring, tiles, recessed lighting, chandeliers, drywall, and more. Instant Imperial & Metric estimates.',
