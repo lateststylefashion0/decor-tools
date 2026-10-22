@@ -3,10 +3,10 @@ import type { Metadata } from 'next';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | DecorTools',
-  description: 'DecorTools privacy policy. We do not store or collect your home measurements.',
+  title: 'Privacy Policy | Home Space Calc',
+  description: 'Home Space Calc privacy policy. We do not store or collect your home measurements.',
   alternates: {
-    canonical: 'https://decortools.com/privacy',
+    canonical: 'https://homespacecalc.com/privacy',
   },
 };
 
@@ -21,12 +21,12 @@ export default function PrivacyPage() {
 
       <div className="bg-white rounded-2xl border border-stone-200/90 p-6 sm:p-8 space-y-6 text-sm text-stone-700 leading-relaxed">
         <p>
-          At DecorTools, your privacy is paramount. This Privacy Policy details our practices regarding information collection, storage, and usage.
+          At Home Space Calc, your privacy is paramount. This Privacy Policy details our practices regarding information collection, storage, and usage.
         </p>
 
         <h2 className="text-lg font-bold text-stone-900">1. Client-Side Calculations</h2>
         <p>
-          All 20 calculators on DecorTools execute entirely within your web browser using client-side JavaScript. Measurements, room dimensions, material options, and financial estimates you enter into our forms are never transmitted to, stored on, or analyzed by any external server or backend database.
+          All 20 calculators on Home Space Calc execute entirely within your web browser using client-side JavaScript. Measurements, room dimensions, material options, and financial estimates you enter into our forms are never transmitted to, stored on, or analyzed by any external server or backend database.
         </p>
 
         <h2 className="text-lg font-bold text-stone-900">2. Cookies and Analytics</h2>

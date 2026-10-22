@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/'],
     },
-    sitemap: 'https://decortools.com/sitemap.xml',
+    sitemap: 'https://homespacecalc.com/sitemap.xml',
   };
 }

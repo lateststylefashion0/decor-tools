@@ -40,17 +40,17 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description,
     keywords: calc.keywords,
     alternates: {
-      canonical: `https://decortools.com/calculators/${calc.slug}`,
+      canonical: `https://homespacecalc.com/calculators/${calc.slug}`,
     },
     openGraph: {
-      title: `${calc.name} | DecorTools`,
+      title: `${calc.name} | Home Space Calc`,
       description,
-      url: `https://decortools.com/calculators/${calc.slug}`,
+      url: `https://homespacecalc.com/calculators/${calc.slug}`,
       type: 'website',
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${calc.name} | DecorTools`,
+      title: `${calc.name} | Home Space Calc`,
       description,
     },
   };
@@ -70,7 +70,7 @@ export default function CalculatorPage({ params }: PageProps) {
     '@type': 'WebApplication',
     name: calc.name,
     description: calc.description,
-    url: `https://decortools.com/calculators/${calc.slug}`,
+    url: `https://homespacecalc.com/calculators/${calc.slug}`,
     applicationCategory: 'DesignApplication',
     operatingSystem: 'All',
     offers: {

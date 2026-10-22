@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     'Browse all 20 free home improvement calculators for rug sizing, curtains, paint, flooring, tiles, recessed lights, chandeliers, TV size, drywall, baseboard, and room dimensions.',
   alternates: {
-    canonical: 'https://decortools.com/calculators',
+    canonical: 'https://homespacecalc.com/calculators',
   },
 };
 

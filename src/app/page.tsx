@@ -146,10 +146,10 @@ export default function HomePage() {
               Calculation Engine
             </span>
             <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              How DecorTools Calculators Work
+              How Home Space Calc Works
             </h2>
             <p className="text-stone-600 text-sm leading-relaxed">
-              Every tool on DecorTools is engineered with real architectural geometry, trade conventions, and manufacturing standards.
+              Every tool on Home Space Calc is engineered with real architectural geometry, trade conventions, and manufacturing standards.
             </p>
           </div>
 

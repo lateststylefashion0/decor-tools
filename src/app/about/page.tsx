@@ -4,11 +4,11 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import { ShieldCheck, Compass, CheckCircle2, Heart } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'About DecorTools | Precision Home Improvement Calculations',
+  title: 'About Home Space Calc | Precision Home Improvement Calculations',
   description:
-    'Learn about DecorTools, our commitment to mathematical calculation accuracy, trade standards, and accessible design tools for homeowners and contractors.',
+    'Learn about Home Space Calc, our commitment to mathematical calculation accuracy, trade standards, and accessible design tools for homeowners and contractors.',
   alternates: {
-    canonical: 'https://decortools.com/about',
+    canonical: 'https://homespacecalc.com/about',
   },
 };
 
@@ -19,17 +19,17 @@ export default function AboutPage() {
 
       <div className="space-y-4">
         <h1 className="text-3xl sm:text-4xl font-extrabold text-stone-900 tracking-tight">
-          About DecorTools
+          About Home Space Calc
         </h1>
         <p className="text-lg text-stone-600 leading-relaxed">
-          DecorTools is dedicated to providing homeowners, interior designers, DIY enthusiasts, and trade professionals with free, reliable, and mathematically accurate calculation tools.
+          Home Space Calc is dedicated to providing homeowners, interior designers, DIY enthusiasts, and trade professionals with free, reliable, and mathematically accurate calculation tools.
         </p>
       </div>
 
       <div className="bg-white rounded-2xl border border-stone-200/90 p-6 sm:p-8 space-y-6 shadow-sm leading-relaxed text-stone-700">
         <h2 className="text-xl font-bold text-stone-900">Our Mission</h2>
         <p>
-          Home renovation and interior decorating should be creative and exciting, not derailed by confusing unit conversions, material shortages, or unexpected package costs. We created DecorTools to eliminate guesswork by turning standard architectural trade formulas into simple, instant calculators.
+          Home renovation and interior decorating should be creative and exciting, not derailed by confusing unit conversions, material shortages, or unexpected package costs. We created Home Space Calc to eliminate guesswork by turning standard architectural trade formulas into simple, instant calculators.
         </p>
 
         <h2 className="text-xl font-bold text-stone-900 pt-2">Why Our Tools Stand Apart</h2>

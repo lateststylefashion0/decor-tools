@@ -4,11 +4,11 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import { Mail, MessageSquare, Send } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Contact DecorTools | Feedback & Tool Suggestions',
+  title: 'Contact Home Space Calc | Feedback & Tool Suggestions',
   description:
-    'Have a question about a calculation formula or wish to suggest a new home decor tool? Reach out to the DecorTools development team.',
+    'Have a question about a calculation formula or wish to suggest a new home decor tool? Reach out to the Home Space Calc development team.',
   alternates: {
-    canonical: 'https://decortools.com/contact',
+    canonical: 'https://homespacecalc.com/contact',
   },
 };
 

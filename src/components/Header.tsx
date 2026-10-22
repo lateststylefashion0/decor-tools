@@ -19,7 +19,7 @@ export default function Header() {
             </div>
             <div className="flex items-baseline">
               <span className="text-xl sm:text-2xl font-bold tracking-tight text-stone-900">
-                Decor<span className="text-emerald-700">Tools</span>
+                Home Space <span className="text-emerald-700">Calc</span>
               </span>
             </div>
           </Link>

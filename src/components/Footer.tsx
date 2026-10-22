@@ -16,7 +16,7 @@ export default function Footer() {
                 <Home className="w-5 h-5" />
               </div>
               <span className="text-2xl font-bold tracking-tight text-white">
-                Decor<span className="text-emerald-400">Tools</span>
+                Home Space <span className="text-emerald-400">Calc</span>
               </span>
             </Link>
             <p className="text-sm text-stone-400 leading-relaxed pr-6">
@@ -165,14 +165,14 @@ export default function Footer() {
         {/* Disclaimer Note */}
         <div className="py-8 border-b border-stone-800 text-xs text-stone-400 leading-relaxed space-y-2">
           <p>
-            <strong className="text-stone-300">Construction & Material Disclaimer:</strong> Calculations and material estimates provided by DecorTools are intended for general budgeting, spatial planning, and interior design assistance. Actual construction requirements may vary based on unique architectural conditions, structural framing, wall plumbness, contractor installation methods, and manufacturer package variances. Always field-verify measurements and consult licensed contractors or certified material suppliers prior to executing orders.
+            <strong className="text-stone-300">Construction & Material Disclaimer:</strong> Calculations and material estimates provided by Home Space Calc are intended for general budgeting, spatial planning, and interior design assistance. Actual construction requirements may vary based on unique architectural conditions, structural framing, wall plumbness, contractor installation methods, and manufacturer package variances. Always field-verify measurements and consult licensed contractors or certified material suppliers prior to executing orders.
           </p>
         </div>
 
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-stone-400">
           <p>
-            &copy; {new Date().getFullYear()} DecorTools. All rights reserved.
+            &copy; {new Date().getFullYear()} Home Space Calc. All rights reserved.
           </p>
           <div className="flex flex-wrap items-center gap-6">
             <Link href="/about" className="hover:text-stone-200 transition-colors">

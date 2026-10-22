@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { CALCULATORS } from '../lib/registry';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://decortools.com';
+  const baseUrl = 'https://homespacecalc.com';
 
   const calculatorUrls = CALCULATORS.map(calc => ({
     url: `${baseUrl}/calculators/${calc.slug}`,

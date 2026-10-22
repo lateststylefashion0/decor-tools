@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     'Comprehensive renovation measurement guidelines, trade calculation rules, and interior design formulas to help you plan home projects accurately.',
   alternates: {
-    canonical: 'https://decortools.com/guides',
+    canonical: 'https://homespacecalc.com/guides',
   },
 };
 

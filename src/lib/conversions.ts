@@ -1,5 +1,5 @@
 /**
- * Unit conversion and precision formatting utilities for DecorTools.
+ * Unit conversion and precision formatting utilities for Home Space Calc.
  * Strictly adheres to standard metric-imperial physical constants.
  */
 
