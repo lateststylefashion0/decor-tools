@@ -36,7 +36,11 @@ export const metadata: Metadata = {
   verification: {
     google: 'K7fF80s7yD_FjfuEiuqOKAiNKFx_nrQOPBsIpLFTVFg',
   },
-
+  // Google Search Console verification
+  verification: {
+    google: 'fRwkzSl4vHG7RBveTs5F1rASjrecj44znr5JnrnILi0',
+  },
+  
   openGraph: {
     type: 'website',
     locale: 'en_US',
