@@ -32,14 +32,15 @@ export const metadata: Metadata = {
   authors: [{ name: 'Home Space Calc Team' }],
   creator: 'Home Space Calc',
 
+  
   // Google Search Console verification
   verification: {
-    google: 'K7fF80s7yD_FjfuEiuqOKAiNKFx_nrQOPBsIpLFTVFg',
+    google: [
+      'K7fF80s7yD_FjfuEiuqOKAiNKFx_nrQOPBsIpLFTVFg',
+      'fRwkzSl4vHG7RBveTs5F1rASjrecj44znr5JnrnILi0',
+    ],
   },
-  // Google Search Console verification
-  verification: {
-    google: 'fRwkzSl4vHG7RBveTs5F1rASjrecj44znr5JnrnILi0',
-  },
+
   
   openGraph: {
     type: 'website',
